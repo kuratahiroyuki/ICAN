@@ -7,17 +7,17 @@
 * All datasets (DAVIS, BindingDB, BIOSNAP) used in this study are publicly available.
 
 # Environment
- >anaconda 4.11.0
- >python 3.8.8
- >pytorch 1.9.0
- >scikit-learn 1.0.2
- >gensim 4.0.1
- >subword-nmt 0.3.8 
-    https://pypi.org/project/subword-nmt/
- >SELFIES
-    https://github.com/aspuru-guzik-group/selfies
- >Biopython
-    https://biopython.org/docs/1.75/api/Bio.html
+ >anaconda 4.11.0  
+ >python 3.8.8  
+ >pytorch 1.9.0  
+ >scikit-learn 1.0.2  
+ >gensim 4.0.1  
+ >subword-nmt 0.3.8  
+    https://pypi.org/project/subword-nmt/  
+ >SELFIES  
+    https://github.com/aspuru-guzik-group/selfies  
+ >Biopython  
+    https://biopython.org/docs/1.75/api/Bio.html  
  
 # Execution
 # 1 Setting directories
