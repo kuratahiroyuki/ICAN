@@ -1,0 +1,17 @@
+./result/result_DAVIS/CA_P
+testing...
+The number of testing data:6011
+test_threshold:: value: 0.531684
+test_sensitivity: 0.8118811881188119
+test_specificity: 0.8572434430558
+test_accuracy: 0.8549465240641712
+test_mcc: 0.3846909337187374
+test_auc: 0.9156478400876524
+test_precision: 0.23273415326395458
+test_recall: 0.8118811881188119
+test_f1: 0.36176470588235293
+test_AUPRC: 0.39612894663682374
+test_true_negative:: value: 4870.000000
+test_false_positive:: value: 811.000000
+test_false_negative:: value: 57.000000
+test_true_positive:: value: 246.000000
