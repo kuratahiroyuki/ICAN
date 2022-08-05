@@ -1,0 +1,1079 @@
+./result/result_DAVIS/CA_P
+training...
+The number of training data:2086
+The number of validation data:3006
+epoch_1=====================
+=============================
+train_loss:: epoch: 1, value: 0.690631,  time: 433.306919
+train_sensitivity: 0.5526315789473685
+train_specificity: 0.5176125244618396
+train_accuracy: 0.53515625
+train_mcc: 0.07028741914533582
+train_auc: 0.5445586950633814
+train_precision: 0.5349056603773585
+train_recall: 0.5526315789473685
+train_f1: 0.5436241610738256
+train_AUPRC: 0.5511263989186417
+train_true_negative:: value: 529.000000, epoch: 1
+train_false_positive:: value: 493.000000, epoch: 1
+train_false_negative:: value: 459.000000, epoch: 1
+train_true_positive:: value: 567.000000, epoch: 1
+-----------------------------
+validation loss:: tensor(0.6721)
+validation_sensitivity: 0.6772151898734177
+validation_specificity: 0.6533002129169624
+validation_accuracy: 0.6545698924731183
+validation_mcc: 0.15399816082574452
+validation_auc: 0.7306892400571371
+validation_precision: 0.09870848708487084
+validation_recall: 0.6772151898734177
+validation_f1: 0.17230273752012884
+validation_AUPRC: 0.1949169530349661
+validation_true_negative:: value: 1841.000000, epoch: 1
+validation_false_positive:: value: 977.000000, epoch: 1
+validation_false_negative:: value: 51.000000, epoch: 1
+validation_true_positive:: value: 107.000000, epoch: 1
+epoch_2=====================
+=============================
+train_loss:: epoch: 2, value: 0.636778,  time: 436.777431
+train_sensitivity: 0.5813725490196079
+train_specificity: 0.693579766536965
+train_accuracy: 0.6376953125
+train_mcc: 0.2767315494762421
+train_auc: 0.6900720988784619
+train_precision: 0.6530837004405287
+train_recall: 0.5813725490196079
+train_f1: 0.6151452282157677
+train_AUPRC: 0.6998090637582977
+train_true_negative:: value: 713.000000, epoch: 2
+train_false_positive:: value: 315.000000, epoch: 2
+train_false_negative:: value: 427.000000, epoch: 2
+train_true_positive:: value: 593.000000, epoch: 2
+-----------------------------
+validation loss:: tensor(0.5960)
+validation_sensitivity: 0.6375
+validation_specificity: 0.7897727272727273
+validation_accuracy: 0.7815860215053764
+validation_mcc: 0.2278997947623791
+validation_auc: 0.7904729669744317
+validation_precision: 0.14697406340057637
+validation_recall: 0.6375
+validation_f1: 0.2388758782201405
+validation_AUPRC: 0.2484616909073986
+validation_true_negative:: value: 2224.000000, epoch: 2
+validation_false_positive:: value: 592.000000, epoch: 2
+validation_false_negative:: value: 58.000000, epoch: 2
+validation_true_positive:: value: 102.000000, epoch: 2
+epoch_3=====================
+=============================
+train_loss:: epoch: 3, value: 0.595699,  time: 440.250692
+train_sensitivity: 0.6819512195121952
+train_specificity: 0.7429130009775171
+train_accuracy: 0.71240234375
+train_mcc: 0.4256449252313036
+train_auc: 0.7627656581551153
+train_precision: 0.7266112266112266
+train_recall: 0.6819512195121952
+train_f1: 0.7035732259687972
+train_AUPRC: 0.7477992147525827
+train_true_negative:: value: 760.000000, epoch: 3
+train_false_positive:: value: 263.000000, epoch: 3
+train_false_negative:: value: 326.000000, epoch: 3
+train_true_positive:: value: 699.000000, epoch: 3
+-----------------------------
+validation loss:: tensor(0.5025)
+validation_sensitivity: 0.60625
+validation_specificity: 0.8267045454545454
+validation_accuracy: 0.8148521505376344
+validation_mcc: 0.2457258799660664
+validation_auc: 0.8017899946732955
+validation_precision: 0.1658119658119658
+validation_recall: 0.60625
+validation_f1: 0.26040268456375837
+validation_AUPRC: 0.24386296016904202
+validation_true_negative:: value: 2328.000000, epoch: 3
+validation_false_positive:: value: 488.000000, epoch: 3
+validation_false_negative:: value: 63.000000, epoch: 3
+validation_true_positive:: value: 97.000000, epoch: 3
+epoch_4=====================
+=============================
+train_loss:: epoch: 4, value: 0.558077,  time: 443.733680
+train_sensitivity: 0.7311827956989247
+train_specificity: 0.7492682926829268
+train_accuracy: 0.740234375
+train_mcc: 0.4805335845986455
+train_auc: 0.799494552130272
+train_precision: 0.7442786069651741
+train_recall: 0.7311827956989247
+train_f1: 0.73767258382643
+train_AUPRC: 0.7742578255747851
+train_true_negative:: value: 768.000000, epoch: 4
+train_false_positive:: value: 257.000000, epoch: 4
+train_false_negative:: value: 275.000000, epoch: 4
+train_true_positive:: value: 748.000000, epoch: 4
+-----------------------------
+validation loss:: tensor(0.4558)
+validation_sensitivity: 0.6792452830188679
+validation_specificity: 0.8292509762158324
+validation_accuracy: 0.821236559139785
+validation_mcc: 0.28700924823163454
+validation_auc: 0.8303840340430853
+validation_precision: 0.1833616298811545
+validation_recall: 0.6792452830188679
+validation_f1: 0.2887700534759358
+validation_AUPRC: 0.29897495907962723
+validation_true_negative:: value: 2336.000000, epoch: 4
+validation_false_positive:: value: 481.000000, epoch: 4
+validation_false_negative:: value: 51.000000, epoch: 4
+validation_true_positive:: value: 108.000000, epoch: 4
+epoch_5=====================
+=============================
+train_loss:: epoch: 5, value: 0.516874,  time: 447.227241
+train_sensitivity: 0.8126829268292682
+train_specificity: 0.696969696969697
+train_accuracy: 0.7548828125
+train_mcc: 0.5131290581400944
+train_auc: 0.8271215697494217
+train_precision: 0.7287839020122485
+train_recall: 0.8126829268292682
+train_f1: 0.7684501845018451
+train_AUPRC: 0.8078364713487727
+train_true_negative:: value: 713.000000, epoch: 5
+train_false_positive:: value: 310.000000, epoch: 5
+train_false_negative:: value: 192.000000, epoch: 5
+train_true_positive:: value: 833.000000, epoch: 5
+-----------------------------
+validation loss:: tensor(0.4994)
+validation_sensitivity: 0.6981132075471698
+validation_specificity: 0.8186013489527867
+validation_accuracy: 0.8121639784946236
+validation_mcc: 0.28578817847687793
+validation_auc: 0.8114424328481837
+validation_precision: 0.17845659163987138
+validation_recall: 0.6981132075471698
+validation_f1: 0.28425096030729835
+validation_AUPRC: 0.28502904587100697
+validation_true_negative:: value: 2306.000000, epoch: 5
+validation_false_positive:: value: 511.000000, epoch: 5
+validation_false_negative:: value: 48.000000, epoch: 5
+validation_true_positive:: value: 111.000000, epoch: 5
+epoch_6=====================
+=============================
+train_loss:: epoch: 6, value: 0.487551,  time: 450.705572
+train_sensitivity: 0.7732160312805474
+train_specificity: 0.7882926829268293
+train_accuracy: 0.78076171875
+train_mcc: 0.5615770025238697
+train_auc: 0.8499048708962164
+train_precision: 0.7847222222222222
+train_recall: 0.7732160312805474
+train_f1: 0.7789266371245693
+train_AUPRC: 0.8357330838643993
+train_true_negative:: value: 808.000000, epoch: 6
+train_false_positive:: value: 217.000000, epoch: 6
+train_false_negative:: value: 232.000000, epoch: 6
+train_true_positive:: value: 791.000000, epoch: 6
+-----------------------------
+validation loss:: tensor(0.4381)
+validation_sensitivity: 0.725
+validation_specificity: 0.8196022727272727
+validation_accuracy: 0.8145161290322581
+validation_mcc: 0.30174828637262224
+validation_auc: 0.8433005593039773
+validation_precision: 0.1858974358974359
+validation_recall: 0.725
+validation_f1: 0.29591836734693877
+validation_AUPRC: 0.31582731599592145
+validation_true_negative:: value: 2308.000000, epoch: 6
+validation_false_positive:: value: 508.000000, epoch: 6
+validation_false_negative:: value: 44.000000, epoch: 6
+validation_true_positive:: value: 116.000000, epoch: 6
+epoch_7=====================
+=============================
+train_loss:: epoch: 7, value: 0.468526,  time: 454.180523
+train_sensitivity: 0.8
+train_specificity: 0.7927663734115347
+train_accuracy: 0.79638671875
+train_mcc: 0.5927841813720457
+train_auc: 0.8649777078415946
+train_precision: 0.7945736434108527
+train_recall: 0.8
+train_f1: 0.7972775887214391
+train_AUPRC: 0.8542981714032012
+train_true_negative:: value: 811.000000, epoch: 7
+train_false_positive:: value: 212.000000, epoch: 7
+train_false_negative:: value: 205.000000, epoch: 7
+train_true_positive:: value: 820.000000, epoch: 7
+-----------------------------
+validation loss:: tensor(0.5625)
+validation_sensitivity: 0.76875
+validation_specificity: 0.7869318181818182
+validation_accuracy: 0.7859543010752689
+validation_mcc: 0.292248815101943
+validation_auc: 0.8454157049005682
+validation_precision: 0.17012448132780084
+validation_recall: 0.76875
+validation_f1: 0.2785956964892412
+validation_AUPRC: 0.2885854200222789
+validation_true_negative:: value: 2216.000000, epoch: 7
+validation_false_positive:: value: 600.000000, epoch: 7
+validation_false_negative:: value: 37.000000, epoch: 7
+validation_true_positive:: value: 123.000000, epoch: 7
+epoch_8=====================
+=============================
+train_loss:: epoch: 8, value: 0.437708,  time: 457.659876
+train_sensitivity: 0.7723735408560312
+train_specificity: 0.8225490196078431
+train_accuracy: 0.79736328125
+train_mcc: 0.5956003068037786
+train_auc: 0.8818636987869078
+train_precision: 0.8143589743589743
+train_recall: 0.7723735408560312
+train_f1: 0.7928107838242636
+train_AUPRC: 0.8843947068889944
+train_true_negative:: value: 839.000000, epoch: 8
+train_false_positive:: value: 181.000000, epoch: 8
+train_false_negative:: value: 234.000000, epoch: 8
+train_true_positive:: value: 794.000000, epoch: 8
+-----------------------------
+validation loss:: tensor(0.4694)
+validation_sensitivity: 0.7278481012658228
+validation_specificity: 0.8349893541518808
+validation_accuracy: 0.8293010752688172
+validation_mcc: 0.3185844873675903
+validation_auc: 0.8477654948747204
+validation_precision: 0.19827586206896552
+validation_recall: 0.7278481012658228
+validation_f1: 0.3116531165311653
+validation_AUPRC: 0.32613282937305565
+validation_true_negative:: value: 2353.000000, epoch: 8
+validation_false_positive:: value: 465.000000, epoch: 8
+validation_false_negative:: value: 43.000000, epoch: 8
+validation_true_positive:: value: 115.000000, epoch: 8
+epoch_9=====================
+=============================
+train_loss:: epoch: 9, value: 0.424212,  time: 461.137531
+train_sensitivity: 0.8148873653281097
+train_specificity: 0.824732229795521
+train_accuracy: 0.81982421875
+train_mcc: 0.6396607736959546
+train_auc: 0.8912687505900911
+train_precision: 0.8221343873517787
+train_recall: 0.8148873653281097
+train_f1: 0.8184948352188883
+train_AUPRC: 0.8909422350363885
+train_true_negative:: value: 847.000000, epoch: 9
+train_false_positive:: value: 180.000000, epoch: 9
+train_false_negative:: value: 189.000000, epoch: 9
+train_true_positive:: value: 832.000000, epoch: 9
+-----------------------------
+validation loss:: tensor(0.4799)
+validation_sensitivity: 0.8
+validation_specificity: 0.8352272727272727
+validation_accuracy: 0.8333333333333334
+validation_mcc: 0.35891488792319126
+validation_auc: 0.8743596857244318
+validation_precision: 0.21621621621621623
+validation_recall: 0.8
+validation_f1: 0.3404255319148936
+validation_AUPRC: 0.37163090051136793
+validation_true_negative:: value: 2352.000000, epoch: 9
+validation_false_positive:: value: 464.000000, epoch: 9
+validation_false_negative:: value: 32.000000, epoch: 9
+validation_true_positive:: value: 128.000000, epoch: 9
+epoch_10=====================
+=============================
+train_loss:: epoch: 10, value: 0.377530,  time: 464.610301
+train_sensitivity: 0.8241650294695482
+train_specificity: 0.841747572815534
+train_accuracy: 0.8330078125
+train_mcc: 0.6660549070507715
+train_auc: 0.9128197302916435
+train_precision: 0.8373253493013972
+train_recall: 0.8241650294695482
+train_f1: 0.8306930693069308
+train_AUPRC: 0.9142220472288589
+train_true_negative:: value: 867.000000, epoch: 10
+train_false_positive:: value: 163.000000, epoch: 10
+train_false_negative:: value: 179.000000, epoch: 10
+train_true_positive:: value: 839.000000, epoch: 10
+-----------------------------
+validation loss:: tensor(0.4670)
+validation_sensitivity: 0.7884615384615384
+validation_specificity: 0.850354609929078
+validation_accuracy: 0.8471102150537635
+validation_mcc: 0.3681052476697096
+validation_auc: 0.8813409256228406
+validation_precision: 0.22568807339449543
+validation_recall: 0.7884615384615384
+validation_f1: 0.3509272467902996
+validation_AUPRC: 0.39118856712149946
+validation_true_negative:: value: 2398.000000, epoch: 10
+validation_false_positive:: value: 422.000000, epoch: 10
+validation_false_negative:: value: 33.000000, epoch: 10
+validation_true_positive:: value: 123.000000, epoch: 10
+epoch_11=====================
+=============================
+train_loss:: epoch: 11, value: 0.353132,  time: 468.087450
+train_sensitivity: 0.8406647116324536
+train_specificity: 0.8624390243902439
+train_accuracy: 0.8515625
+train_mcc: 0.7032808235137208
+train_auc: 0.9268054264120356
+train_precision: 0.8591408591408591
+train_recall: 0.8406647116324536
+train_f1: 0.8498023715415021
+train_AUPRC: 0.927831727044339
+train_true_negative:: value: 884.000000, epoch: 11
+train_false_positive:: value: 141.000000, epoch: 11
+train_false_negative:: value: 163.000000, epoch: 11
+train_true_positive:: value: 860.000000, epoch: 11
+-----------------------------
+validation loss:: tensor(0.4155)
+validation_sensitivity: 0.7610062893081762
+validation_specificity: 0.8544550940717075
+validation_accuracy: 0.8494623655913979
+validation_mcc: 0.3614981691106666
+validation_auc: 0.8762198511731335
+validation_precision: 0.2278719397363465
+validation_recall: 0.7610062893081762
+validation_f1: 0.3507246376811594
+validation_AUPRC: 0.39202397769749114
+validation_true_negative:: value: 2407.000000, epoch: 11
+validation_false_positive:: value: 410.000000, epoch: 11
+validation_false_negative:: value: 38.000000, epoch: 11
+validation_true_positive:: value: 121.000000, epoch: 11
+epoch_12=====================
+=============================
+train_loss:: epoch: 12, value: 0.310518,  time: 471.565876
+train_sensitivity: 0.842156862745098
+train_specificity: 0.9007782101167315
+train_accuracy: 0.87158203125
+train_mcc: 0.7443394523117498
+train_auc: 0.9428354123750669
+train_precision: 0.8938605619146722
+train_recall: 0.842156862745098
+train_f1: 0.867238768298839
+train_AUPRC: 0.9411658627409332
+train_true_negative:: value: 926.000000, epoch: 12
+train_false_positive:: value: 102.000000, epoch: 12
+train_false_negative:: value: 161.000000, epoch: 12
+train_true_positive:: value: 859.000000, epoch: 12
+-----------------------------
+validation loss:: tensor(0.4881)
+validation_sensitivity: 0.810126582278481
+validation_specificity: 0.8339247693399574
+validation_accuracy: 0.8326612903225806
+validation_mcc: 0.36083439278925
+validation_auc: 0.8757815939125513
+validation_precision: 0.21476510067114093
+validation_recall: 0.810126582278481
+validation_f1: 0.3395225464190981
+validation_AUPRC: 0.39845270087782614
+validation_true_negative:: value: 2350.000000, epoch: 12
+validation_false_positive:: value: 468.000000, epoch: 12
+validation_false_negative:: value: 30.000000, epoch: 12
+validation_true_positive:: value: 128.000000, epoch: 12
+epoch_13=====================
+=============================
+train_loss:: epoch: 13, value: 0.292603,  time: 475.042899
+train_sensitivity: 0.8837890625
+train_specificity: 0.8837890625
+train_accuracy: 0.8837890625
+train_mcc: 0.767578125
+train_auc: 0.9514055252075195
+train_precision: 0.8837890625
+train_recall: 0.8837890625
+train_f1: 0.8837890625
+train_AUPRC: 0.9532790450763003
+train_true_negative:: value: 905.000000, epoch: 13
+train_false_positive:: value: 119.000000, epoch: 13
+train_false_negative:: value: 119.000000, epoch: 13
+train_true_positive:: value: 905.000000, epoch: 13
+-----------------------------
+validation loss:: tensor(0.4782)
+validation_sensitivity: 0.802547770700637
+validation_specificity: 0.8315005321035829
+validation_accuracy: 0.8299731182795699
+validation_mcc: 0.35306174676569557
+validation_auc: 0.870687532056134
+validation_precision: 0.2096505823627288
+validation_recall: 0.802547770700637
+validation_f1: 0.3324538258575198
+validation_AUPRC: 0.37073673609403823
+validation_true_negative:: value: 2344.000000, epoch: 13
+validation_false_positive:: value: 475.000000, epoch: 13
+validation_false_negative:: value: 31.000000, epoch: 13
+validation_true_positive:: value: 126.000000, epoch: 13
+epoch_14=====================
+=============================
+train_loss:: epoch: 14, value: 0.269171,  time: 478.526989
+train_sensitivity: 0.8900778210116731
+train_specificity: 0.8990196078431373
+train_accuracy: 0.89453125
+train_mcc: 0.7891049544968083
+train_auc: 0.9577720874341954
+train_precision: 0.8988212180746562
+train_recall: 0.8900778210116731
+train_f1: 0.8944281524926686
+train_AUPRC: 0.9592627175665551
+train_true_negative:: value: 917.000000, epoch: 14
+train_false_positive:: value: 103.000000, epoch: 14
+train_false_negative:: value: 113.000000, epoch: 14
+train_true_positive:: value: 915.000000, epoch: 14
+-----------------------------
+validation loss:: tensor(0.4017)
+validation_sensitivity: 0.7875
+validation_specificity: 0.8625710227272727
+validation_accuracy: 0.8585349462365591
+validation_mcc: 0.38819169126194164
+validation_auc: 0.8738225763494318
+validation_precision: 0.24561403508771928
+validation_recall: 0.7875
+validation_f1: 0.37444279346210996
+validation_AUPRC: 0.3857054662577715
+validation_true_negative:: value: 2429.000000, epoch: 14
+validation_false_positive:: value: 387.000000, epoch: 14
+validation_false_negative:: value: 34.000000, epoch: 14
+validation_true_positive:: value: 126.000000, epoch: 14
+epoch_15=====================
+=============================
+train_loss:: epoch: 15, value: 0.233049,  time: 482.011073
+train_sensitivity: 0.902818270165209
+train_specificity: 0.9244357212953876
+train_accuracy: 0.91357421875
+train_mcc: 0.8273719646710981
+train_auc: 0.9690372714345797
+train_precision: 0.9234592445328031
+train_recall: 0.902818270165209
+train_f1: 0.913022113022113
+train_AUPRC: 0.9692133396275425
+train_true_negative:: value: 942.000000, epoch: 15
+train_false_positive:: value: 77.000000, epoch: 15
+train_false_negative:: value: 100.000000, epoch: 15
+train_true_positive:: value: 929.000000, epoch: 15
+-----------------------------
+validation loss:: tensor(0.5203)
+validation_sensitivity: 0.8176100628930818
+validation_specificity: 0.8136315228966986
+validation_accuracy: 0.8138440860215054
+validation_mcc: 0.3426331410480714
+validation_auc: 0.8709910404708162
+validation_precision: 0.1984732824427481
+validation_recall: 0.8176100628930818
+validation_f1: 0.31941031941031944
+validation_AUPRC: 0.3901079279198324
+validation_true_negative:: value: 2292.000000, epoch: 15
+validation_false_positive:: value: 525.000000, epoch: 15
+validation_false_negative:: value: 29.000000, epoch: 15
+validation_true_positive:: value: 130.000000, epoch: 15
+epoch_16=====================
+=============================
+train_loss:: epoch: 16, value: 0.195731,  time: 485.486533
+train_sensitivity: 0.9208984375
+train_specificity: 0.9326171875
+train_accuracy: 0.9267578125
+train_mcc: 0.8535742373039258
+train_auc: 0.9773244857788086
+train_precision: 0.9318181818181818
+train_recall: 0.9208984375
+train_f1: 0.9263261296660118
+train_AUPRC: 0.9779710338850722
+train_true_negative:: value: 955.000000, epoch: 16
+train_false_positive:: value: 69.000000, epoch: 16
+train_false_negative:: value: 81.000000, epoch: 16
+train_true_positive:: value: 943.000000, epoch: 16
+-----------------------------
+validation loss:: tensor(0.4644)
+validation_sensitivity: 0.7848101265822784
+validation_specificity: 0.8608942512420156
+validation_accuracy: 0.8568548387096774
+validation_mcc: 0.38241979504198653
+validation_auc: 0.8831618168914124
+validation_precision: 0.24031007751937986
+validation_recall: 0.7848101265822784
+validation_f1: 0.3679525222551929
+validation_AUPRC: 0.4275248100770327
+validation_true_negative:: value: 2426.000000, epoch: 16
+validation_false_positive:: value: 392.000000, epoch: 16
+validation_false_negative:: value: 34.000000, epoch: 16
+validation_true_positive:: value: 124.000000, epoch: 16
+epoch_17=====================
+=============================
+train_loss:: epoch: 17, value: 0.183143,  time: 488.960540
+train_sensitivity: 0.9155339805825242
+train_specificity: 0.944007858546169
+train_accuracy: 0.9296875
+train_mcc: 0.8597632574578343
+train_auc: 0.9805596353024204
+train_precision: 0.943
+train_recall: 0.9155339805825242
+train_f1: 0.9290640394088671
+train_AUPRC: 0.9809414897644406
+train_true_negative:: value: 961.000000, epoch: 17
+train_false_positive:: value: 57.000000, epoch: 17
+train_false_negative:: value: 87.000000, epoch: 17
+train_true_positive:: value: 943.000000, epoch: 17
+-----------------------------
+validation loss:: tensor(1.1182)
+validation_sensitivity: 0.7974683544303798
+validation_specificity: 0.8335699077359829
+validation_accuracy: 0.8316532258064516
+validation_mcc: 0.3537663739876184
+validation_auc: 0.8786036420479557
+validation_precision: 0.21176470588235294
+validation_recall: 0.7974683544303798
+validation_f1: 0.33466135458167334
+validation_AUPRC: 0.35414525689474147
+validation_true_negative:: value: 2349.000000, epoch: 17
+validation_false_positive:: value: 469.000000, epoch: 17
+validation_false_negative:: value: 32.000000, epoch: 17
+validation_true_positive:: value: 126.000000, epoch: 17
+epoch_18=====================
+=============================
+train_loss:: epoch: 18, value: 0.189181,  time: 492.434535
+train_sensitivity: 0.9296187683284457
+train_specificity: 0.9297560975609757
+train_accuracy: 0.9296875
+train_mcc: 0.8593748658894214
+train_auc: 0.9793147843501895
+train_precision: 0.9296187683284457
+train_recall: 0.9296187683284457
+train_f1: 0.9296187683284457
+train_AUPRC: 0.9800417567847982
+train_true_negative:: value: 953.000000, epoch: 18
+train_false_positive:: value: 72.000000, epoch: 18
+train_false_negative:: value: 72.000000, epoch: 18
+train_true_positive:: value: 951.000000, epoch: 18
+-----------------------------
+validation loss:: tensor(0.4565)
+validation_sensitivity: 0.7358490566037735
+validation_specificity: 0.8704295349662762
+validation_accuracy: 0.863239247311828
+validation_mcc: 0.37007732392869236
+validation_auc: 0.8625427827007187
+validation_precision: 0.24273858921161826
+validation_recall: 0.7358490566037735
+validation_f1: 0.36505460218408736
+validation_AUPRC: 0.4404220039774852
+validation_true_negative:: value: 2452.000000, epoch: 18
+validation_false_positive:: value: 365.000000, epoch: 18
+validation_false_negative:: value: 42.000000, epoch: 18
+validation_true_positive:: value: 117.000000, epoch: 18
+epoch_19=====================
+=============================
+train_loss:: epoch: 19, value: 0.174068,  time: 495.909593
+train_sensitivity: 0.9148727984344422
+train_specificity: 0.9610136452241715
+train_accuracy: 0.93798828125
+train_mcc: 0.876889286675203
+train_auc: 0.9825085926383691
+train_precision: 0.958974358974359
+train_recall: 0.9148727984344422
+train_f1: 0.9364046069103656
+train_AUPRC: 0.9818860857861145
+train_true_negative:: value: 986.000000, epoch: 19
+train_false_positive:: value: 40.000000, epoch: 19
+train_false_negative:: value: 87.000000, epoch: 19
+train_true_positive:: value: 935.000000, epoch: 19
+-----------------------------
+validation loss:: tensor(0.9377)
+validation_sensitivity: 0.8113207547169812
+validation_specificity: 0.8058217962371317
+validation_accuracy: 0.8061155913978495
+validation_mcc: 0.33123804368453313
+validation_auc: 0.8681980250188098
+validation_precision: 0.1908284023668639
+validation_recall: 0.8113207547169812
+validation_f1: 0.3089820359281437
+validation_AUPRC: 0.43016568153620316
+validation_true_negative:: value: 2270.000000, epoch: 19
+validation_false_positive:: value: 547.000000, epoch: 19
+validation_false_negative:: value: 30.000000, epoch: 19
+validation_true_positive:: value: 129.000000, epoch: 19
+epoch_20=====================
+=============================
+train_loss:: epoch: 20, value: 0.143787,  time: 499.315984
+train_sensitivity: 0.9395121951219512
+train_specificity: 0.9589442815249267
+train_accuracy: 0.94921875
+train_mcc: 0.8986107467943907
+train_auc: 0.9879999046324773
+train_precision: 0.9582089552238806
+train_recall: 0.9395121951219512
+train_f1: 0.9487684729064039
+train_AUPRC: 0.9883694755899594
+train_true_negative:: value: 981.000000, epoch: 20
+train_false_positive:: value: 42.000000, epoch: 20
+train_false_negative:: value: 62.000000, epoch: 20
+train_true_positive:: value: 963.000000, epoch: 20
+-----------------------------
+validation loss:: tensor(0.9712)
+validation_sensitivity: 0.7924528301886793
+validation_specificity: 0.8399006034788783
+validation_accuracy: 0.8373655913978495
+validation_mcc: 0.3597069559441412
+validation_auc: 0.8712823981978242
+validation_precision: 0.21837088388214904
+validation_recall: 0.7924528301886793
+validation_f1: 0.3423913043478261
+validation_AUPRC: 0.3973590748857982
+validation_true_negative:: value: 2366.000000, epoch: 20
+validation_false_positive:: value: 451.000000, epoch: 20
+validation_false_negative:: value: 33.000000, epoch: 20
+validation_true_positive:: value: 126.000000, epoch: 20
+epoch_21=====================
+=============================
+train_loss:: epoch: 21, value: 0.126915,  time: 502.732266
+train_sensitivity: 0.9352941176470588
+train_specificity: 0.9649805447470817
+train_accuracy: 0.9501953125
+train_mcc: 0.9007644535047358
+train_auc: 0.9906815060654612
+train_precision: 0.9636363636363636
+train_recall: 0.9352941176470588
+train_f1: 0.9492537313432835
+train_AUPRC: 0.9908106879306683
+train_true_negative:: value: 992.000000, epoch: 21
+train_false_positive:: value: 36.000000, epoch: 21
+train_false_negative:: value: 66.000000, epoch: 21
+train_true_positive:: value: 954.000000, epoch: 21
+-----------------------------
+validation loss:: tensor(0.5882)
+validation_sensitivity: 0.80625
+validation_specificity: 0.8366477272727273
+validation_accuracy: 0.835013440860215
+validation_mcc: 0.363943820807427
+validation_auc: 0.8805031516335228
+validation_precision: 0.21901528013582344
+validation_recall: 0.80625
+validation_f1: 0.34445927903871826
+validation_AUPRC: 0.37773774473681465
+validation_true_negative:: value: 2356.000000, epoch: 21
+validation_false_positive:: value: 460.000000, epoch: 21
+validation_false_negative:: value: 31.000000, epoch: 21
+validation_true_positive:: value: 129.000000, epoch: 21
+epoch_22=====================
+=============================
+train_loss:: epoch: 22, value: 0.107927,  time: 506.137157
+train_sensitivity: 0.953170731707317
+train_specificity: 0.9706744868035191
+train_accuracy: 0.9619140625
+train_mcc: 0.9239721156062901
+train_auc: 0.9930362635004649
+train_precision: 0.9702085402184707
+train_recall: 0.953170731707317
+train_f1: 0.9616141732283463
+train_AUPRC: 0.9940340723214656
+train_true_negative:: value: 993.000000, epoch: 22
+train_false_positive:: value: 30.000000, epoch: 22
+train_false_negative:: value: 48.000000, epoch: 22
+train_true_positive:: value: 977.000000, epoch: 22
+-----------------------------
+validation loss:: tensor(1.3470)
+validation_sensitivity: 0.85
+validation_specificity: 0.7737926136363636
+validation_accuracy: 0.7778897849462365
+validation_mcc: 0.3208629329386069
+validation_auc: 0.8747048117897727
+validation_precision: 0.1759379042690815
+validation_recall: 0.85
+validation_f1: 0.2915326902465166
+validation_AUPRC: 0.36540135703854404
+validation_true_negative:: value: 2179.000000, epoch: 22
+validation_false_positive:: value: 637.000000, epoch: 22
+validation_false_negative:: value: 24.000000, epoch: 22
+validation_true_positive:: value: 136.000000, epoch: 22
+epoch_23=====================
+=============================
+train_loss:: epoch: 23, value: 0.120190,  time: 509.536504
+train_sensitivity: 0.9520078354554359
+train_specificity: 0.9591041869522883
+train_accuracy: 0.95556640625
+train_mcc: 0.9111515604587128
+train_auc: 0.9915217625578527
+train_precision: 0.9585798816568047
+train_recall: 0.9520078354554359
+train_f1: 0.9552825552825552
+train_AUPRC: 0.9915329704905452
+train_true_negative:: value: 985.000000, epoch: 23
+train_false_positive:: value: 42.000000, epoch: 23
+train_false_negative:: value: 49.000000, epoch: 23
+train_true_positive:: value: 972.000000, epoch: 23
+-----------------------------
+validation loss:: tensor(0.6626)
+validation_sensitivity: 0.7924528301886793
+validation_specificity: 0.8686545970891019
+validation_accuracy: 0.8645833333333334
+validation_mcc: 0.3989305936909262
+validation_auc: 0.8838967365701949
+validation_precision: 0.2540322580645161
+validation_recall: 0.7924528301886793
+validation_f1: 0.38473282442748086
+validation_AUPRC: 0.39133340153154256
+validation_true_negative:: value: 2447.000000, epoch: 23
+validation_false_positive:: value: 370.000000, epoch: 23
+validation_false_negative:: value: 33.000000, epoch: 23
+validation_true_positive:: value: 126.000000, epoch: 23
+epoch_24=====================
+=============================
+train_loss:: epoch: 24, value: 0.101188,  time: 512.935617
+train_sensitivity: 0.9502923976608187
+train_specificity: 0.9755381604696673
+train_accuracy: 0.962890625
+train_mcc: 0.9260831835304107
+train_auc: 0.9939994583109218
+train_precision: 0.975
+train_recall: 0.9502923976608187
+train_f1: 0.9624876604146101
+train_AUPRC: 0.9943792640866096
+train_true_negative:: value: 997.000000, epoch: 24
+train_false_positive:: value: 25.000000, epoch: 24
+train_false_negative:: value: 51.000000, epoch: 24
+train_true_positive:: value: 975.000000, epoch: 24
+-----------------------------
+validation loss:: tensor(0.9501)
+validation_sensitivity: 0.81875
+validation_specificity: 0.8103693181818182
+validation_accuracy: 0.8108198924731183
+validation_mcc: 0.34064227323416607
+validation_auc: 0.8779241388494318
+validation_precision: 0.19699248120300752
+validation_recall: 0.81875
+validation_f1: 0.3175757575757575
+validation_AUPRC: 0.36375117647776894
+validation_true_negative:: value: 2282.000000, epoch: 24
+validation_false_positive:: value: 534.000000, epoch: 24
+validation_false_negative:: value: 29.000000, epoch: 24
+validation_true_positive:: value: 131.000000, epoch: 24
+epoch_25=====================
+=============================
+train_loss:: epoch: 25, value: 0.083831,  time: 516.325934
+train_sensitivity: 0.9805825242718447
+train_specificity: 0.9715127701375246
+train_accuracy: 0.97607421875
+train_mcc: 0.9521811139016322
+train_auc: 0.9956148549411563
+train_precision: 0.9720885466794995
+train_recall: 0.9805825242718447
+train_f1: 0.9763170613823102
+train_AUPRC: 0.9953760208107331
+train_true_negative:: value: 989.000000, epoch: 25
+train_false_positive:: value: 29.000000, epoch: 25
+train_false_negative:: value: 20.000000, epoch: 25
+train_true_positive:: value: 1010.000000, epoch: 25
+-----------------------------
+validation loss:: tensor(0.9626)
+validation_sensitivity: 0.84375
+validation_specificity: 0.8089488636363636
+validation_accuracy: 0.8108198924731183
+validation_mcc: 0.35191248275325565
+validation_auc: 0.8819602272727272
+validation_precision: 0.20059435364041606
+validation_recall: 0.84375
+validation_f1: 0.32412965186074433
+validation_AUPRC: 0.36926473796133286
+validation_true_negative:: value: 2278.000000, epoch: 25
+validation_false_positive:: value: 538.000000, epoch: 25
+validation_false_negative:: value: 25.000000, epoch: 25
+validation_true_positive:: value: 135.000000, epoch: 25
+epoch_26=====================
+=============================
+train_loss:: epoch: 26, value: 0.080162,  time: 519.724508
+train_sensitivity: 0.9774951076320939
+train_specificity: 0.9717348927875243
+train_accuracy: 0.974609375
+train_mcc: 0.9492354320245886
+train_auc: 0.9958562692881365
+train_precision: 0.9717898832684825
+train_recall: 0.9774951076320939
+train_f1: 0.9746341463414635
+train_AUPRC: 0.9956245453562557
+train_true_negative:: value: 997.000000, epoch: 26
+train_false_positive:: value: 29.000000, epoch: 26
+train_false_negative:: value: 23.000000, epoch: 26
+train_true_positive:: value: 999.000000, epoch: 26
+-----------------------------
+validation loss:: tensor(0.6717)
+validation_sensitivity: 0.810126582278481
+validation_specificity: 0.8474095102909865
+validation_accuracy: 0.8454301075268817
+validation_mcc: 0.37772296200006683
+validation_auc: 0.8774806622885427
+validation_precision: 0.22939068100358423
+validation_recall: 0.810126582278481
+validation_f1: 0.35754189944134074
+validation_AUPRC: 0.38709904487200547
+validation_true_negative:: value: 2388.000000, epoch: 26
+validation_false_positive:: value: 430.000000, epoch: 26
+validation_false_negative:: value: 30.000000, epoch: 26
+validation_true_positive:: value: 128.000000, epoch: 26
+epoch_27=====================
+=============================
+train_loss:: epoch: 27, value: 0.061618,  time: 523.117870
+train_sensitivity: 0.97953216374269
+train_specificity: 0.974559686888454
+train_accuracy: 0.97705078125
+train_mcc: 0.9541123239583132
+train_auc: 0.9976177124699114
+train_precision: 0.9747817652764307
+train_recall: 0.97953216374269
+train_f1: 0.9771511910549344
+train_AUPRC: 0.9976741842573031
+train_true_negative:: value: 996.000000, epoch: 27
+train_false_positive:: value: 26.000000, epoch: 27
+train_false_negative:: value: 21.000000, epoch: 27
+train_true_positive:: value: 1005.000000, epoch: 27
+-----------------------------
+validation loss:: tensor(1.7192)
+validation_sensitivity: 0.7948717948717948
+validation_specificity: 0.8276595744680851
+validation_accuracy: 0.8259408602150538
+validation_mcc: 0.3436970512265668
+validation_auc: 0.8705594198945262
+validation_precision: 0.20327868852459016
+validation_recall: 0.7948717948717948
+validation_f1: 0.32375979112271536
+validation_AUPRC: 0.32631150993269975
+validation_true_negative:: value: 2334.000000, epoch: 27
+validation_false_positive:: value: 486.000000, epoch: 27
+validation_false_negative:: value: 32.000000, epoch: 27
+validation_true_positive:: value: 124.000000, epoch: 27
+epoch_28=====================
+=============================
+train_loss:: epoch: 28, value: 0.059028,  time: 526.525032
+train_sensitivity: 0.980544747081712
+train_specificity: 0.9823529411764705
+train_accuracy: 0.9814453125
+train_mcc: 0.9628921784766331
+train_auc: 0.9977025635156787
+train_precision: 0.9824561403508771
+train_recall: 0.980544747081712
+train_f1: 0.9814995131450828
+train_AUPRC: 0.9977649936817412
+train_true_negative:: value: 1002.000000, epoch: 28
+train_false_positive:: value: 18.000000, epoch: 28
+train_false_negative:: value: 20.000000, epoch: 28
+train_true_positive:: value: 1008.000000, epoch: 28
+-----------------------------
+validation loss:: tensor(0.7447)
+validation_sensitivity: 0.8343949044585988
+validation_specificity: 0.8442710180915218
+validation_accuracy: 0.84375
+validation_mcc: 0.3855388677257913
+validation_auc: 0.8801716288244239
+validation_precision: 0.22982456140350876
+validation_recall: 0.8343949044585988
+validation_f1: 0.3603851444291609
+validation_AUPRC: 0.39751276856985557
+validation_true_negative:: value: 2380.000000, epoch: 28
+validation_false_positive:: value: 439.000000, epoch: 28
+validation_false_negative:: value: 26.000000, epoch: 28
+validation_true_positive:: value: 131.000000, epoch: 28
+epoch_29=====================
+=============================
+train_loss:: epoch: 29, value: 0.056629,  time: 529.932143
+train_sensitivity: 0.9834469328140214
+train_specificity: 0.9755142017629774
+train_accuracy: 0.9794921875
+train_mcc: 0.9590123531695508
+train_auc: 0.997896176400745
+train_precision: 0.9758454106280193
+train_recall: 0.9834469328140214
+train_f1: 0.979631425800194
+train_AUPRC: 0.9978906190976575
+train_true_negative:: value: 996.000000, epoch: 29
+train_false_positive:: value: 25.000000, epoch: 29
+train_false_negative:: value: 17.000000, epoch: 29
+train_true_positive:: value: 1010.000000, epoch: 29
+-----------------------------
+validation loss:: tensor(1.2174)
+validation_sensitivity: 0.8113207547169812
+validation_specificity: 0.8296059637912673
+validation_accuracy: 0.8286290322580645
+validation_mcc: 0.35726673980947105
+validation_auc: 0.8795386501095103
+validation_precision: 0.21182266009852216
+validation_recall: 0.8113207547169812
+validation_f1: 0.33593749999999994
+validation_AUPRC: 0.3756357523786616
+validation_true_negative:: value: 2337.000000, epoch: 29
+validation_false_positive:: value: 480.000000, epoch: 29
+validation_false_negative:: value: 30.000000, epoch: 29
+validation_true_positive:: value: 129.000000, epoch: 29
+epoch_30=====================
+=============================
+train_loss:: epoch: 30, value: 0.049546,  time: 533.341610
+train_sensitivity: 0.9833822091886608
+train_specificity: 0.9853658536585366
+train_accuracy: 0.984375
+train_mcc: 0.968751758352454
+train_auc: 0.9983167632262834
+train_precision: 0.9853085210577864
+train_recall: 0.9833822091886608
+train_f1: 0.9843444227005871
+train_AUPRC: 0.9982413402407301
+train_true_negative:: value: 1010.000000, epoch: 30
+train_false_positive:: value: 15.000000, epoch: 30
+train_false_negative:: value: 17.000000, epoch: 30
+train_true_positive:: value: 1006.000000, epoch: 30
+-----------------------------
+validation loss:: tensor(1.7943)
+validation_sensitivity: 0.8238993710691824
+validation_specificity: 0.8058217962371317
+validation_accuracy: 0.8067876344086021
+validation_mcc: 0.3376372997666264
+validation_auc: 0.883638868237096
+validation_precision: 0.19321533923303835
+validation_recall: 0.8238993710691824
+validation_f1: 0.3130227001194743
+validation_AUPRC: 0.3999603549792111
+validation_true_negative:: value: 2270.000000, epoch: 30
+validation_false_positive:: value: 547.000000, epoch: 30
+validation_false_negative:: value: 28.000000, epoch: 30
+validation_true_positive:: value: 131.000000, epoch: 30
+epoch_31=====================
+=============================
+train_loss:: epoch: 31, value: 0.081996,  time: 536.755202
+train_sensitivity: 0.9795121951219512
+train_specificity: 0.9696969696969697
+train_accuracy: 0.974609375
+train_mcc: 0.9492634837170795
+train_auc: 0.9961738549936818
+train_precision: 0.970048309178744
+train_recall: 0.9795121951219512
+train_f1: 0.974757281553398
+train_AUPRC: 0.996373238127534
+train_true_negative:: value: 992.000000, epoch: 31
+train_false_positive:: value: 31.000000, epoch: 31
+train_false_negative:: value: 21.000000, epoch: 31
+train_true_positive:: value: 1004.000000, epoch: 31
+-----------------------------
+validation loss:: tensor(0.5548)
+validation_sensitivity: 0.7025316455696202
+validation_specificity: 0.893541518807665
+validation_accuracy: 0.8834005376344086
+validation_mcc: 0.3873771612244954
+validation_auc: 0.8737770750419994
+validation_precision: 0.27007299270072993
+validation_recall: 0.7025316455696202
+validation_f1: 0.39015817223198596
+validation_AUPRC: 0.3948199395593849
+validation_true_negative:: value: 2518.000000, epoch: 31
+validation_false_positive:: value: 300.000000, epoch: 31
+validation_false_negative:: value: 47.000000, epoch: 31
+validation_true_positive:: value: 111.000000, epoch: 31
+epoch_32=====================
+=============================
+train_loss:: epoch: 32, value: 0.085419,  time: 540.162686
+train_sensitivity: 0.9706457925636007
+train_specificity: 0.9727095516569201
+train_accuracy: 0.9716796875
+train_mcc: 0.9433607422100221
+train_auc: 0.9956855609342993
+train_precision: 0.9725490196078431
+train_recall: 0.9706457925636007
+train_f1: 0.9715964740450538
+train_AUPRC: 0.9957789456647035
+train_true_negative:: value: 998.000000, epoch: 32
+train_false_positive:: value: 28.000000, epoch: 32
+train_false_negative:: value: 30.000000, epoch: 32
+train_true_positive:: value: 992.000000, epoch: 32
+-----------------------------
+validation loss:: tensor(1.4464)
+validation_sensitivity: 0.7961783439490446
+validation_specificity: 0.8222774033345158
+validation_accuracy: 0.8209005376344086
+validation_mcc: 0.3392226918879413
+validation_auc: 0.8790825675635983
+validation_precision: 0.19968051118210864
+validation_recall: 0.7961783439490446
+validation_f1: 0.31928480204342274
+validation_AUPRC: 0.40193846672780165
+validation_true_negative:: value: 2318.000000, epoch: 32
+validation_false_positive:: value: 501.000000, epoch: 32
+validation_false_negative:: value: 32.000000, epoch: 32
+validation_true_positive:: value: 125.000000, epoch: 32
+epoch_33=====================
+=============================
+train_loss:: epoch: 33, value: 0.104866,  time: 543.549188
+train_sensitivity: 0.9824902723735408
+train_specificity: 0.9813725490196078
+train_accuracy: 0.98193359375
+train_mcc: 0.9638669579333734
+train_auc: 0.9971713588158999
+train_precision: 0.9815354713313897
+train_recall: 0.9824902723735408
+train_f1: 0.9820126397666505
+train_AUPRC: 0.9959643620793526
+train_true_negative:: value: 1001.000000, epoch: 33
+train_false_positive:: value: 19.000000, epoch: 33
+train_false_negative:: value: 18.000000, epoch: 33
+train_true_positive:: value: 1010.000000, epoch: 33
+-----------------------------
+validation loss:: tensor(1.7738)
+validation_sensitivity: 0.8461538461538461
+validation_specificity: 0.7851063829787234
+validation_accuracy: 0.7883064516129032
+validation_mcc: 0.32578948260015606
+validation_auc: 0.8827934624477177
+validation_precision: 0.17886178861788618
+validation_recall: 0.8461538461538461
+validation_f1: 0.2953020134228188
+validation_AUPRC: 0.3704254434368678
+validation_true_negative:: value: 2214.000000, epoch: 33
+validation_false_positive:: value: 606.000000, epoch: 33
+validation_false_negative:: value: 24.000000, epoch: 33
+validation_true_positive:: value: 132.000000, epoch: 33
+epoch_34=====================
+=============================
+train_loss:: epoch: 34, value: 0.044748,  time: 546.940667
+train_sensitivity: 0.9902439024390244
+train_specificity: 0.9843597262952102
+train_accuracy: 0.9873046875
+train_mcc: 0.9746259364281712
+train_auc: 0.9984307274157785
+train_precision: 0.9844810863239574
+train_recall: 0.9902439024390244
+train_f1: 0.9873540856031128
+train_AUPRC: 0.9981397827660664
+train_true_negative:: value: 1007.000000, epoch: 34
+train_false_positive:: value: 16.000000, epoch: 34
+train_false_negative:: value: 10.000000, epoch: 34
+train_true_positive:: value: 1015.000000, epoch: 34
+-----------------------------
+validation loss:: tensor(1.0672)
+validation_sensitivity: 0.7784810126582279
+validation_specificity: 0.8577004968062456
+validation_accuracy: 0.853494623655914
+validation_mcc: 0.3745020537487231
+validation_auc: 0.8818894808239977
+validation_precision: 0.23473282442748092
+validation_recall: 0.7784810126582279
+validation_f1: 0.3607038123167155
+validation_AUPRC: 0.4049736084189528
+validation_true_negative:: value: 2417.000000, epoch: 34
+validation_false_positive:: value: 401.000000, epoch: 34
+validation_false_negative:: value: 35.000000, epoch: 34
+validation_true_positive:: value: 123.000000, epoch: 34
+Traning can not improve from epoch 14	Best loss: 0.4017133414745331
+train_sensitivity: 0.8900778210116731
+valid_sensitivity: 0.7875
+train_specificity: 0.8990196078431373
+valid_specificity: 0.8625710227272727
+train_accuracy: 0.89453125
+valid_accuracy: 0.8585349462365591
+train_mcc: 0.7891049544968083
+valid_mcc: 0.38819169126194164
+train_auc: 0.9577720874341954
+valid_auc: 0.8738225763494318
+train_precision: 0.8988212180746562
+valid_precision: 0.24561403508771928
+train_recall: 0.8900778210116731
+valid_recall: 0.7875
+train_f1: 0.8944281524926686
+valid_f1: 0.37444279346210996
+train_AUPRC: 0.9592627175665551
+valid_AUPRC: 0.3857054662577715
+Best threshold (AUC) is 0.5316843390464783
+Best threshold (PRC) is 0.7223324179649353
