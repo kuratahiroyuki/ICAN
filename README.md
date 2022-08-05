@@ -40,7 +40,8 @@ After simulation, the simulation results are saved in the "result" directory.
 
 # 3 Simulation
 ## 3-1 Main simulation
-$sh main.sh (traintest.py, deep_network.py)  
+$sh main.sh  
+(traintest.py, deep_network.py)  
 Users must set iter_num <= 5.
 ## 3-2 Optional simulation
 $sh main.sh  
