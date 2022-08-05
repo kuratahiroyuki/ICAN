@@ -25,25 +25,25 @@ Users must make four directories:dataset, ESPF, dictionary, result.
 
 # 2 Construction of dataset and ESPF
 ## 2-1 Dataset and ESPF
-Before simulation, users must input the following dataset files:
-MolTrans-master/dataset/*
-MolTrans-master/ESPF/*
-into the directories of "dataset" and "ESPF" of "ICAN".
->cp -r  MolTrans-master/dataset/  ICAN/dataset/
->cp -r  MolTrans-master/ESPF/  ICAN/ESPF/
-"MolTrans-master" is freely available at https://github.com/kexinhuang12345/MolTrans.
-If users use your own dataset, they need to remake the following dictionaries.
+Before simulation, users must input the following dataset files:  
+MolTrans-master/dataset/*  
+MolTrans-master/ESPF/*  
+into the directories of "dataset" and "ESPF" of "ICAN".  
+>cp -r  MolTrans-master/dataset/  ICAN/dataset/  
+>cp -r  MolTrans-master/ESPF/  ICAN/ESPF/  
+"MolTrans-master" is freely available at https://github.com/kexinhuang12345/MolTrans.  
+If users use your own dataset, they need to remake the following dictionaries.  
 
 ## 2-2 Dictionary and result
-The "dictionary" directory includes the dictrionaries that the authors have constructed for the DAVIS, BindingDB, and BIOSNAP datasets.
+The "dictionary" directory includes the dictrionaries that the authors have constructed for the DAVIS, BindingDB, and BIOSNAP datasets.  
 After simulation, the simulation results are saved in the "result" directory.
 
 # 3 Simulation
 ## 3-1 Main simulation
-$sh main.sh (traintest.py, deep_network.py)
+$sh main.sh (traintest.py, deep_network.py)  
 Users must set iter_num <= 5.
 ## 3-2 Optional simulation
-$sh main.sh
-Users can choose three encoding methods: FCS, SMILES, SELFIES
-Users can choose three datasets: DAVIS, BindingDB, BIOSNAP/full_data
+$sh main.sh  
+Users can choose three encoding methods: FCS, SMILES, SELFIES  
+Users can choose three datasets: DAVIS, BindingDB, BIOSNAP/full_data  
 
